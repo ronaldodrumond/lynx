@@ -56,8 +56,8 @@ a.btn-cta {
   padding: 10px 30px;
 }
 .btn-primary {
-  background: #40babd;
-  border: 1px solid #40babd;
+  background: #bb5b67;
+  border: 1px solid #bb5b67;
   color: #fff;
 }
 .btn-primary:hover,
@@ -105,7 +105,7 @@ a.btn-cta {
   margin-right: 5px;
 }
 .carousel-indicators li.active {
-  background-color: #40babd;
+  background-color: #bb5b67;
   width: 11px;
   height: 11px;
   margin: 0;
@@ -132,11 +132,11 @@ a.btn-cta {
   color: #494d55;
 }
 .header.header-scrolled .logo {
-  color: #40babd;
+  color: #bb5b67;
   padding-top: 12px;
 }
 .header.header-scrolled .logo .logo-icon-wrapper {
-  background: #40babd;
+  background: #bb5b67;
   width: 40px;
   height: 40px;
   -webkit-border-radius: 50%;
@@ -159,7 +159,7 @@ a.btn-cta {
 }
 .header.header-scrolled .main-nav .nav .nav-item.active a {
   color: #494d55;
-  border-bottom: 4px solid #40babd;
+  border-bottom: 4px solid #bb5b67;
 }
 .header a {
   color: #fff;
@@ -255,7 +255,7 @@ a.btn-cta {
   padding: 15px 0;
 }
 .footer a {
-  color: #40babd;
+  color: #bb5b67;
 }
 .footer .fa-heart {
   color: #EA5395;
@@ -354,7 +354,7 @@ a.btn-cta {
   padding: 30px;
 }
 .about-section .items-wrapper .item-title {
-  color: #40babd;
+  color: #bb5b67;
   font-size: 18px;
   font-weight: bold;
   margin: 0;
@@ -373,7 +373,7 @@ a.btn-cta {
   margin-right: 0;
 }
 .testimonials {
-  background: #40babd;
+  background: #bb5b67;
 }
 .testimonials-inner {
   padding: 60px 30px;
@@ -421,7 +421,7 @@ a.btn-cta {
 }
 /* ======= Testimonials Section ======= */
 .testimonials-section {
-  background: #40babd url('../images/map.png') no-repeat center center;
+  background: #bb5b67 url('../images/map.png') no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -535,7 +535,7 @@ a.btn-cta {
   margin-right: 5px;
 }
 .feature-nav > li.active > a {
-  color: #40babd;
+  color: #bb5b67;
   background: none;
   padding: 8px 0;
 }
@@ -546,7 +546,7 @@ a.btn-cta {
 }
 .feature-nav > li > a:hover {
   background: none;
-  color: #40babd;
+  color: #bb5b67;
 }
 /* ======= Pricing Section ======= */
 .pricing-section {
@@ -584,7 +584,7 @@ a.btn-cta {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #40babd;
+  background: #bb5b67;
   min-height: 390px;
 }
 .pricing-wrapper .item-inner a {
@@ -676,7 +676,7 @@ a.btn-cta {
 .team-section .member-name {
   font-size: 18px;
   font-weight: 700;
-  color: #40babd;
+  color: #bb5b67;
 }
 .team-section .member-title {
   font-size: 16px;
@@ -700,7 +700,7 @@ a.btn-cta {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #40babd;
+  background: #bb5b67;
   padding-top: 4px;
   color: #fff;
 }
@@ -777,11 +777,11 @@ a.btn-cta {
     z-index: 40;
   }
   .header .main-nav .navbar-collapse .nav-item.active a {
-    color: #40babd;
+    color: #bb5b67;
   }
   .header.header-scrolled .main-nav .navbar-collapse .nav-item.active a {
     border: none;
-    color: #40babd;
+    color: #bb5b67;
   }
   .main-nav .navbar-collapse .nav-item {
     margin-right: 0;
